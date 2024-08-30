@@ -1,6 +1,8 @@
 import React from "react";
 import {useDispatch} from "react-redux";
 
+import wheat from './images/wheat.jpg';
+
 import "./Bed.css"
 
 const Bed = ({bed}) => {
@@ -8,7 +10,7 @@ const Bed = ({bed}) => {
     return (
         <div className="bed">
             <div className="bed_image">
-                <img src="images/wheat.jpg" alt="ground"></img>
+                <img src={wheat} alt="ground"></img>
             </div>
             <div className="bed_content">
                 <div className="bed_title">{bed.name}</div>
