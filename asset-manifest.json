@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.3ca6ec13.css",
-    "main.js": "/react-gh-pages/static/js/main.36c42efa.js",
-    "static/js/453.79660f26.chunk.js": "/react-gh-pages/static/js/453.79660f26.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.3ca6ec13.css.map": "/react-gh-pages/static/css/main.3ca6ec13.css.map",
-    "main.36c42efa.js.map": "/react-gh-pages/static/js/main.36c42efa.js.map",
-    "453.79660f26.chunk.js.map": "/react-gh-pages/static/js/453.79660f26.chunk.js.map"
+    "main.css": "/BorowykReact/static/css/main.3ca6ec13.css",
+    "main.js": "/BorowykReact/static/js/main.200d95ed.js",
+    "static/js/453.79660f26.chunk.js": "/BorowykReact/static/js/453.79660f26.chunk.js",
+    "index.html": "/BorowykReact/index.html",
+    "main.3ca6ec13.css.map": "/BorowykReact/static/css/main.3ca6ec13.css.map",
+    "main.200d95ed.js.map": "/BorowykReact/static/js/main.200d95ed.js.map",
+    "453.79660f26.chunk.js.map": "/BorowykReact/static/js/453.79660f26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca6ec13.css",
-    "static/js/main.36c42efa.js"
+    "static/js/main.200d95ed.js"
   ]
 }
